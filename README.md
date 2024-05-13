@@ -1,4 +1,4 @@
-# Sistem-Manajemen-Keuangan
+<h1><center>Sistem Manajemen Keuangan || yolo-team1</center>n</h1>
 <h3><b><i>Tony Vetra Sugita		  ( 17210176 )</b></h3>
 <h3><b><i>Harits Fadhlillah 		( 17210254 )</b></h3>
 <h3><b><i>Tegar Joko Kurniawan 	( 17210355 )</b></h3>
